@@ -1,2 +1,2 @@
 # masai_project_01
-my anme is vivek
+my name is vivek
